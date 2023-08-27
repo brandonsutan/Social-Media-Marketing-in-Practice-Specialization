@@ -1,45 +1,43 @@
-# Google Digital Marketing & E-commerce Professional Certificate
+# Digital Marketing Institute - Social Media Marketing in Practice Specialization
 
-![Google Certificate](GoogleDigitalMarketingandEcommerce.png)
+![Certificate Badge](CDMA.png)
 
-## My Journey to Mastery
+Welcome to my journey through the **Social Media Marketing in Practice Specialization** offered by the Digital Marketing Institute! This specialization has equipped me with the skills to thrive in the modern workplace by mastering core social media marketing techniques.
 
-I'm proud to share that I have completed the **Google Digital Marketing & E-commerce Professional Certificate** program. This transformative journey has enriched my understanding of digital marketing and e-commerce strategies. This program has equipped me with valuable skills in high demand in today's rapidly evolving business landscape.
+## Specialization Overview
 
-## Program Overview
+- **Specialization:** Social Media Marketing in Practice
+- **Instructor:** Cathal Melinn, Digital Marketing Institute
+- **Duration:** 1 month at 10 hours a week
+- **My Rating:** 4.4
 
-- **Instructor:** Google Career Certificates
-- **Instructor Rating:** Top Instructor
-- **Number of Enrollments:** 412,667 and counting
+## A World Transformed by Social Media
 
-## What I've Learned
+With over 4.6 billion people using social media, how businesses operate and engage with consumers has drastically evolved in today's digital landscape. This specialization provides a comprehensive understanding of social media marketing, allowing you to develop a successful career as a digital marketing generalist or social media specialist.
 
-Throughout the program, I delved into various aspects of digital marketing and e-commerce, gaining practical skills and insights crucial for success in today's digital-driven world. Some key takeaways from my learning journey include:
+## Courses and Achievements
 
-- **Foundations of Digital Marketing and E-commerce:** I gained a comprehensive understanding of digital marketing concepts, learning to develop effective strategies to engage potential customers and guide them through the marketing funnel.
+Throughout this specialization, I've gained invaluable insights into various areas of social media marketing:
 
-- **Attract and Engage Customers with Digital Marketing:** Exploring the world of SEO, SEM, and brand awareness, I learned how to optimize website content and use search engine marketing strategies to benefit businesses.
+- **Social Media and Digital Marketing Fundamentals:** I learned how digital technology influences consumer behavior, the role of content marketing, and how to engage audiences effectively.
 
-- **From Likes to Leads: Interact with Customers Online:** I honed my skills in social media marketing, understanding core pillars like strategy, planning, engagement, and advertising. This course empowered me to create compelling and engaging content for social media platforms.
+- **Social Media and Social Content Strategy:** I explored the benefits of incorporating social media into digital strategy, analyzed influential platforms, and developed content promotion strategies.
 
-- **Think Outside the Inbox: Email Marketing:** I mastered the art of email marketing, from crafting compelling email copy to executing and optimizing email campaigns. Understanding customer engagement and loyalty strategies has been invaluable.
+- **Facebook, Instagram, and Snapchat Marketing:** I mastered advertising features on Facebook, storytelling techniques on Instagram, and engagement strategies on Snapchat.
 
-- **Assess for Success: Marketing Analytics and Measurement:** I developed expertise in evaluating marketing metrics, planning successful campaigns, and creating insightful presentations to showcase campaign progress.
+- **Twitter, LinkedIn, and YouTube Marketing:** I acquired skills to engage with real-time audiences on Twitter, utilize LinkedIn for B2B advertising, and leverage YouTube's potential.
 
-- **Make the Sale: Build, Launch, and Manage E-commerce Stores:** This course provided hands-on experience in setting up e-commerce stores, creating an engaging customer experience, and optimizing store performance.
+## Certified Digital Marketing Associate
 
-- **Satisfaction Guaranteed: Develop Customer Loyalty Online:** Exploring strategies to build customer loyalty, I learned to manage client relationships, prepare for interviews, and present my achievements effectively.
+By completing this specialization, I've earned the esteemed **Certified Digital Marketing Associate** certification from the Digital Marketing Institute. This recognition demonstrates my expertise in social media marketing and opens doors to a community of over 130k members and three months of free Power Membership access.
 
-## Applying Knowledge
+## Let's Stay Connected
 
-This program was not just about theory but about applying practical skills to real-world scenarios. I had the opportunity to work on various projects and assignments that simulated authentic digital marketing and e-commerce challenges. This hands-on approach enhanced my confidence and readiness for the digital marketing landscape.
-
-## Connect with Me
-
-If you're interested in discussing my experiences, digital marketing strategies, or insights from this program, feel free to reach out to me at:
+I'm excited to continue applying my newfound knowledge in social media marketing. If you're interested in discussing social media strategies, digital marketing insights, or connecting further, feel free to reach out to me:
 
 - GitHub: [Brandon Sutan](https://github.com/brandonsutan)
 - LinkedIn: [Brandon Sutan](https://www.linkedin.com/in/brandonsutan/)
 - Portfolio: [Brandon Sutan](https://brandonsutan.github.io/)
 
-Thank you for joining me on this educational journey. Let's continue to embrace innovation and stay ahead in the dynamic field of digital marketing and e-commerce! 🚀📊
+Thank you for joining me on this transformative journey in social media marketing! 🚀📱
+
